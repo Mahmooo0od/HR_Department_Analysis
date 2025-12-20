@@ -72,6 +72,26 @@ Detailed analysis of employee turnover trends and breakdowns.
 - Provides clear visibility into hiring versus resignation trends  
 - Supports HR planning and retention strategies  
 
+
 ---
 
-## 📁 Repository Structure
+## 🚀 Business Value
+This dashboard enables HR teams and decision-makers to:
+- Improve workforce planning and employee retention  
+- Monitor HR performance using reliable, data-driven KPIs  
+- Support executive reporting with clear and interactive visuals  
+
+---
+
+## 📌 Notes
+- The project follows Power BI best practices  
+- Calculations are optimized for accuracy and performance  
+- The data model supports scalability for future HR analytics extensions  
+
+---
+
+## 👤 Author
+**Mahmood**  
+Data & Analytics Engineer  
+Power BI | DAX | Data Modeling | Git
+
